@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 7704329096053550119}
   - component: {fileID: 5539323695307827903}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Physics Player
   m_TagString: Player
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -161,7 +161,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 0533a15c0f38af14bb48f346f6b0d7ff, type: 2}
+    - {fileID: 11400000, guid: acfe6ddbf3d83c94994d1fcf0dec9096, type: 2}
 --- !u!114 &9106750787975040432
 MonoBehaviour:
   m_ObjectHideFlags: 0
