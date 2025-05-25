@@ -13,15 +13,19 @@
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 18.75,
-                "y": -1.25
+                "x": -0.25,
+                "y": -0.25
             }
         },
         "tilemaps/tilemap.tsx": {
             "scaleInDock": 2,
             "scaleInEditor": 3
+        },
+        "tilemaps/tileset.tsx": {
+            "scaleInDock": 1
         }
     },
+    "last.externalTilesetPath": "D:/Unity Projects/COMP1151 Week 9 Test/comp1151prac-tilemapgame-codster76/Assets/Tilemap/tilemaps",
     "last.imagePath": "C:/Users/MQ10000446/Documents/GitHub/comp1151prac-tilemapgame-codster76/Assets/Tilemap/Tilemap",
     "map.fixedSize": false,
     "map.lastUsedFormat": "tmx",
