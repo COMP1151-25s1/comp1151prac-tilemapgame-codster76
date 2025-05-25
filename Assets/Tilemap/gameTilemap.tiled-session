@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "tilemaps/tilemap.tsx",
+    "activeFile": "tilemaps/physics test room.tmx",
     "expandedProjectPaths": [
         ".",
         "tilemaps"
@@ -15,6 +15,14 @@
             "viewCenter": {
                 "x": -0.25,
                 "y": -0.25
+            }
+        },
+        "tilemaps/physics test room.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 190.25,
+                "y": 101
             }
         },
         "tilemaps/tilemap.tsx": {
@@ -33,12 +41,14 @@
     "map.tileWidth": 16,
     "openFiles": [
         "tilemaps/tilemap.tsx",
-        "tilemaps/map1.tmx"
+        "tilemaps/map1.tmx",
+        "tilemaps/physics test room.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
+        "tilemaps/tilemap.tsx",
         "tilemaps/map1.tmx",
-        "tilemaps/tilemap.tsx"
+        "tilemaps/physics test room.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
